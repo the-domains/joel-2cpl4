@@ -1,8 +1,19 @@
-typography_spectrum: 0.4022468379698694
+title: Aggresive
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.5530789627227932
-  lightness: 0.9639989177230746
   saturation: 0.8784692971967161
+  brandStrength: 0.5530789627227932
   rhythmicContrast: 0.9665365223772824
   brandColors:
     - '#F7EDF0'
@@ -10,7 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-layout_spectrum: 0.8035606953781098
-name: Joel
-title: Aggresive
+  lightness: 0.9639989177230746
+typography_spectrum: 0.4022468379698694
 description: Art by Joel
+layout_spectrum: 0.155914
+name: Joel
