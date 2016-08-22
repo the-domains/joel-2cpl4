@@ -24,5 +24,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: A.R.T
+title: "A.R.T\_"
 description: Aggressive | Modern | Forward
